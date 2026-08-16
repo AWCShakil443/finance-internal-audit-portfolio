@@ -1,0 +1,7 @@
+Period,Input_Kg,Standard_Wastage_Pct,Actual_Wastage_Kg,Leftover_Kg,Disposed_Kg,Recovery_Value
+Jan,10000,5,620,950,200,18000
+Feb,12000,5,540,880,150,14500
+Mar,11000,5,710,1020,250,22000
+Apr,13000,5,585,760,180,16500
+May,12500,5,825,1130,300,27000
+Jun,14000,5,630,900,210,19500
