@@ -1,0 +1,11 @@
+Item_Code,Category,Opening_Qty,Purchase_Qty,Issue_Qty,Closing_Qty,Unit_Cost,Days_Since_Last_Issue
+SP-001,Sewing Spare,120,80,150,50,1250,35
+SP-002,Sewing Spare,500,0,20,480,850,210
+SP-003,Electrical,75,150,190,35,2200,18
+SP-004,Mechanical,300,0,0,300,1750,365
+SP-005,Utility,200,50,180,70,950,95
+SP-006,Mechanical,1000,250,90,1160,420,240
+SP-007,Electrical,160,0,140,20,3100,12
+SP-008,Finishing,450,100,300,250,680,72
+SP-009,Utility,90,0,5,85,1450,330
+SP-010,Sewing Spare,250,75,225,100,760,28
