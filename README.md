@@ -9,10 +9,9 @@ I am a finance and internal audit professional combining accounting knowledge, a
 ## Professional Focus
 
 - **Finance & Accounting** → Financial analysis → Management reporting → Cost and variance analysis → Accounting controls
-- **Internal Audit** → Risk-based audit → Control evaluation → Compliance testing → Audit reporting
-- **Risk & Controls** → COSO → ICQ → Control design → Operating effectiveness → Remediation
-- **ERP & Data Analytics** → Oracle ERP → Transaction testing → Exception analysis → Reconciliation
-- **Inventory & Supply Chain** → Ageing → Slow/non-moving stock → Consumption → Procurement → P2P analytics
+- **Internal Audit & Risk** → Risk-based audit → Control evaluation → COSO → ICQ → Audit reporting
+- **Data Analytics** → Exception testing → Reconciliation → Inventory analytics → P2P analytics → KPI analysis
+- **Software & Systems** → Microsoft Excel → Power Query → Power BI → Oracle ERP → MIS → QuickBooks → GoFreight → IAAMS
 - **RMG Operations** → Fabric → Accessories → Spare parts → Wastage → Leftover and production analytics
 
 ## Professional Experience
@@ -65,24 +64,60 @@ Advanced Excel, Power Query, dynamic formulas, reconciliation, exception reporti
 ### 07. Business Analytics & Academic Projects
 Quantitative business analysis, measurement, risk assessment and applied business analytics.
 
-## Technical Skills
+## Core Skills
 
-| Area | Skills |
-|---|---|
-| **Finance & Accounting** | → Financial analysis → Management reporting → Cost analysis → Accounting controls |
-| **Internal Audit** | → Risk-based audit → Internal control assessment → COSO → ICQ → Audit reporting |
-| **Data Analytics** | → Excel → Power Query → Data cleansing → Exception analysis → Reconciliation |
-| **Excel** | → XLOOKUP → SUMIFS → COUNTIFS → LET → FILTER/UNIQUE → AGGREGATE → Pivot Tables |
-| **ERP / Systems** | → Oracle ERP → MIS → QuickBooks → GoFreight → IAAMS |
-| **Business Analytics** | → KPI analysis → Trend analysis → Variance analysis → Operational analytics |
+### Finance, Audit & Risk
 
-## Education & Professional Qualifications
+→ Finance & Accounting  
+→ Financial Analysis  
+→ Internal Audit  
+→ Risk Assessment  
+→ COSO  
+→ ICQ  
+→ Control Testing  
+→ Audit Reporting  
+→ Management Reporting
+
+### Data & Analytics
+
+→ Data Analysis  
+→ Exception Testing  
+→ Reconciliation  
+→ Inventory Analytics  
+→ P2P Analytics  
+→ KPI Analysis  
+→ Trend Analysis  
+→ Variance Analysis
+
+### Software & Systems
+
+→ Microsoft Excel  
+→ XLOOKUP  
+→ SUMIFS  
+→ COUNTIFS  
+→ LET  
+→ FILTER / UNIQUE  
+→ AGGREGATE  
+→ Pivot Tables  
+→ Power Query  
+→ Power BI  
+→ Oracle ERP  
+→ MIS  
+→ QuickBooks  
+→ GoFreight  
+→ IAAMS
+
+## Academic Qualifications
 
 - **MBA, Quantitative Business Analysis & Marketing** → IBA, Jahangirnagar University | Ongoing
 - **MBA, Accounting** → National University
 - **BBA, Accounting** → National University
+
+## Training & Certifications
+
 - **Chartered Accountancy** → Certificate Level Qualified | 9 of 17 papers passed
 - **Income Tax Practitioner (ITP)** → NBR Certificate
+- **IFRS 9 Training** → Professional training covering IFRS 9 related concepts and application
 
 ## Portfolio Principles
 
