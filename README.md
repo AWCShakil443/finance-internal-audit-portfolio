@@ -89,9 +89,8 @@ Quantitative business analysis, measurement, risk assessment and applied busines
 → Trend Analysis  
 → Variance Analysis
 
-### Software & Systems
+### Microsoft Excel Expertise
 
-→ Microsoft Excel  
 → XLOOKUP  
 → SUMIFS  
 → COUNTIFS  
@@ -99,8 +98,12 @@ Quantitative business analysis, measurement, risk assessment and applied busines
 → FILTER / UNIQUE  
 → AGGREGATE  
 → Pivot Tables  
-→ Power Query  
-→ Power BI  
+→ Power Query
+
+### Software & Systems
+
+→ Microsoft Excel  
+→ Microsoft Power BI  
 → Oracle ERP  
 → MIS  
 → QuickBooks  
@@ -115,9 +118,13 @@ Quantitative business analysis, measurement, risk assessment and applied busines
 
 ## Training & Certifications
 
+- **Chartered Accountant – Course Completed** → A. Wahab & Co. | Issued Jan 2022 | Credential 30835/19
 - **Chartered Accountancy** → Certificate Level Qualified | 9 of 17 papers passed
-- **Income Tax Practitioner (ITP)** → NBR Certificate
-- **IFRS 9 Training** → Professional training covering IFRS 9 related concepts and application
+- **Income Tax Practitioner (ITP)** → National Board of Revenue (NBR) Certificate
+- **IFRS 9 Training** → Professional training covering IFRS 9 concepts and application
+- **Business Benefits Realization Foundations** → LinkedIn | Issued Aug 2024
+- **Critical Thinking for Better Judgment and Decision-Making** → LinkedIn | Issued Jul 2024
+- **Learning Data Analytics: 1 Foundations** → LinkedIn | Issued Jul 2024
 
 ## Portfolio Principles
 
@@ -126,6 +133,7 @@ All case studies are presented for professional and educational purposes. Compan
 ## Connect
 
 - GitHub: [@AWCShakil443](https://github.com/AWCShakil443)
+- LinkedIn: [Md. Shakil Hossain](https://www.linkedin.com/in/shakil-rbm/)
 - Email: awc.shakil407@gmail.com
 
 ---
